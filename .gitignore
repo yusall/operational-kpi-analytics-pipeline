@@ -1,0 +1,23 @@
+# Virtual environment
+venv/
+.venv/
+
+# Data
+data/raw/
+data/cleaned/
+
+# Databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Outputs/reports
+outputs/reports/
+outputs/figures/
+
+# OS / editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+__pycache__/
+*.pyc
